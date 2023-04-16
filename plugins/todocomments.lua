@@ -3,7 +3,7 @@ return {
   dependencies = {
     "nvim-lua/plenary.nvim",
   },
-  event = "User Astrofile",
+  event = "VeryLazy",
   cmd = { "TodoQuickFix", "TodoTelescope" },
   keys = {
     { "<leader>fT", "<cmd>TodoTelescope<cr>", desc = "Search for TODOs" },

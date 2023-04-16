@@ -1,5 +1,5 @@
 return {
-  'AstroVim/astrocommunity',
+  'AstroNvim/astrocommunity',
   { import = 'astrocommunity.colorscheme.tokyonight' },
   { import = "astrocommunity.completion.copilot-lua" },
   {
